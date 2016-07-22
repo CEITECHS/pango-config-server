@@ -48,4 +48,5 @@ fabric.properties
 /.idea/
 /mvnw.cmd
 /mvnw
+/pango-config-server.iml
 
